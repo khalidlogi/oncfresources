@@ -59,15 +59,74 @@
         "description": "Modèles et procédures pour les dépêches",
         "content": [
           {
-            "title": "FERMETURE DE VOIE 2",
+            "id": "fermeture-voie",
+            "title": "FERMETURE DE VOIE",
             "text": [
               "A à B ... h ... mn. Dernier train reçu de B est train n°... puis-je engager la voie principale par manœuvre au-delà des limites de ma gare ?",
-              "B à A ... h ... mn. Dernier train expédié vers A est bien train n° ... j'arrête et je retiens toutes circulations se dirigeant ver A"
+              "B à A ... h ... mn. Dernier train expédié vers A est bien train n° ... j'arrête et je retiens toutes circulations se dirigeant ver A",
+              "Après dégagement de la manœuvre, la gare A transmet à B la dépêche suivante :",
+              "A à B ... h ... mn. Manœuvre terminée, pouvez reprendre expédition des trains vers ma gare."
             ],
             "keywords": ["fermeture", "voie", "manoeuvre", "circulation"]
+          },
+          {
+            "id": "limites-manoeuvres",
+            "title": "LIMITE DES MANŒUVRES SUR VOIES PRINCIPALES",
+            "text": [
+              "A à B ... h ... mn. Dernier train reçu de B est train n°... puis-je engager la voie principale par manœuvre au-delà des limites de ma gare ?",
+              "B à A ... h ... mn. Dernier train expédié vers A est bien train n° ... j'arrête et je retiens toutes circulations se dirigeant vers A.",
+              "Après dégagement de la manœuvre, la gare A transmet à B la dépêche suivante :",
+              "A à B ... h ... mn. Manœuvre terminée, pouvez reprendre expédition des trains vers ma gare."
+            ],
+            "keywords": ["limite", "manœuvre", "voie", "principale", "gare"]
+          },
+          {
+            "id": "raté-fermeture-signal",
+            "title": "RATÉ DE FERMETURE OU EXTINCTION DU SIGNAL",
+            "text": [
+              "B à A ... h ... mn. Par suite de raté de fermeture (ou extinction) du signal sur voie ... côté ..., remettre aux circulations de sens ... à partir du train ... ordre d'arrêt à ... avant le signal (ou aiguille ou ...).",
+              "Les conducteurs doivent se mettre en communication avec l'aiguilleur du poste (ou le chef de sécurité de ...)."
+            ],
+            "keywords": ["signal", "fermeture", "extinction", "circulation", "arrêt", "aiguilleur"]
+          },
+          {
+            "id": "expedition-hors-tour",
+            "title": "EXPÉDITION D’UN TRAIN HORS TOUR ET EN AVANCE",
+            "text": [
+              "Ordre est donné au mécanicien du train n°... de continuer hors tour du train n°... et en avance de ... minutes jusqu’à la gare de ... (gare où cesse l’interversion) et de s’arrêter à cette gare."
+            ],
+            "keywords": ["expédition", "train", "avance", "horaire", "interversion"]
+          },
+          {
+            "id": "report-croisement-trains",
+            "title": "REPORT DE CROISEMENT DES TRAINS",
+            "text": [
+              "Régulateur aux gares (A,B,C,…) à …h…mn. Reportez à … (gare où le croisement est reporté) dans les conditions réglementaires le croisement des trains X et Y.",
+              "A à B - Dernier train reçu de B est train n°… (train à marche tracée ou à marche indéterminée) à …h… mn. Puis-je vous expédier train X sans attendre train Y?",
+              "B à A - Dernier train expédié vers A est bien train n°… à …h…mn. J'arrête et je retiens train Y. Pouvez m'expédier train X."
+            ],
+            "keywords": ["croisement", "train", "report", "régulateur"]
+          },
+          {
+            "id": "envoi-secours-avant",
+            "title": "ENVOI DU SECOURS PAR L’AVANT",
+            "text": [
+              "B à A à …h …mn. M'indiquer le dernier train (train à marche tracée ou à marche indéterminée) expédié de A vers B avant le train n° … en détresse.",
+              "A à B à …h …mn. Dernier train expédié de A vers B avant le train n° … en détresse, est train n° …."
+            ],
+            "keywords": ["secours", "train", "détresse", "expédié"]
+          },
+          {
+            "id": "reddition-voie-libre",
+            "title": "REDDITION DE VOIE LIBRE DERRIÈRE LES TRAINS",
+            "text": [
+              "B à C, train n°… est-il parvenu complet ?",
+              "C à B, train n°… parvenu complet."
+            ],
+            "keywords": ["voie libre", "train", "complet", "reddition"]
           }
         ]
       }
     ]
   }
-} 
+}
