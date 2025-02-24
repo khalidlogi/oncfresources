@@ -1,0 +1,73 @@
+{
+  "trains": [
+    {
+      "id": "152",
+      "arrivalTime": "09:15",
+      "departureTime": "09:16",
+      "type": "Regulier"
+    },
+    {
+      "id": "151",
+      "arrivalTime": "10:45",
+      "departureTime": "10:45",
+      "type": "Regulier"
+    },
+    {
+      "id": "153",
+      "arrivalTime": "10:45",
+      "departureTime": "14:48",
+      "type": "Regulier"
+    },
+    {
+      "id": "154",
+      "passageTime": "14:48",
+      "type": "FF"
+    }
+  ],
+  "measureTypes": [
+    { "id": "arret", "label": "Arrêter et Retenir" },
+    { "id": "vitesse", "label": "Limitation de Vitesse" },
+    { "id": "363bis", "label": "363bis" },
+    { "id": "croisement", "label": "Changement de X" },
+    { "id": "renseignement", "label": "Demande de Renseignement" },
+    { "id": "anomalie", "label": "Anomalie" },
+    { "id": "resquilleur", "label": "Resquilleur" }
+  ],
+  "documentation": {
+    "sections": [
+      {
+        "id": "derangements",
+        "title": "Dérangements",
+        "icon": "warning-outline",
+        "description": "Procédures à suivre en cas de dérangements des installations",
+        "content": [
+          {
+            "title": "Panne de signalisation",
+            "text": "En cas de panne de signalisation...",
+            "steps": [
+              "1. Informer le régulateur",
+              "2. Appliquer la procédure 363bis",
+              "3. Remettre les ordres écrits aux conducteurs"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "depeches",
+        "title": "Dépêches",
+        "icon": "mail-outline",
+        "description": "Modèles et procédures pour les dépêches",
+        "content": [
+          {
+            "title": "FERMETURE DE VOIE",
+            "text": [
+              "A à B ... h ... mn. Dernier train reçu de B est train n°... puis-je engager la voie principale par manœuvre au-delà des limites de ma gare ?",
+              "B à A ... h ... mn. Dernier train expédié vers A est bien train n° ... j'arrête et je retiens toutes circulations se dirigeant ver A"
+            ],
+            "keywords": ["fermeture", "voie", "manoeuvre", "circulation"]
+          }
+        ]
+      }
+    ]
+  }
+} 
