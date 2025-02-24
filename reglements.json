@@ -216,6 +216,37 @@
                 "303"
             ]
         },
+
+        {
+  "id": "reglement-s6b-005",
+  "title": "Interversion des trains",
+  "category": "Circulation",
+  "content": [
+    "***Article 501 -*** **Annonce des modifications à l’ordre normal de circulation des trains de même sens**",
+    "**1.** Lorsque le téléphone fonctionne, la modification de l'ordre normal de circulation de deux trains de même sens (article 103 du Règlement S2C) est annoncée directement par le Régulateur à toutes les gares intéressées sous la forme :",
+    "**« Régulateur aux gares de …, train n°… (train en retard) garé à… , train n°… hors tour de … (gare origine de l’interversion) à… (gare de garage suivante) ».**",
+    "Le Régulateur peut charger la gare origine de l'interversion des deux trains d'annoncer cette dépêche de gare en gare sur le parcours où l'ordre normal de circulation des deux trains est modifié (1).",
+    "**2.** En cas de non fonctionnement de tous les moyens de communication avec la Régulation, les gares peuvent prendre l’initiative de modifier l’ordre normal de circulation des trains de même sens; la gare origine de l’interversion transmet la dépêche prévue au point 1 de gare en gare sur le parcours où l’ordre normal de circulation des deux trains est modifié. Le Régulateur en est informé après rétablissement du circuit Régulation .",
+    "**3.** Après accusé de réception de la dépêche annonçant l'interversion, l'expédition du 1er train hors-tour et du 2ème train garé ainsi que leur circulation à partir de la gare où commence l'interversion ne donnent lieu à aucune formalité spéciale.",
+    "Toutefois, lorsque l’interversion doit cesser dans une gare où le train devant circuler hors tour n’a pas d’arrêt prévu et si les deux trains concernés doivent continuer au-delà de cette gare suivant l’ordre normal de circulation, le mécanicien en est informé par bulletin modèle 363 bis (ou par dépêche transmise par radio) ainsi libellé (2):",
+    "**« Ordre est donné au mécanicien du train n°… de s’arrêter à la gare de … (gare où cesse l’interversion) suite interversion avec train n°…»** **.**",
+    "**4.** Dans le cas où la modification de l’ordre normal de circulation des trains de même sens ne peut être annoncée conformément au point 1 ou 2 du présent article, le chef de sécurité donne au mécanicien du train circulant hors tour un ordre écrit ou transmis par dépêche, ainsi rédigé (2) :",
+    "**« Ordre est donné au mécanicien du train n°… de s’arrêter en gare de … (gare ouverte au service suivante) pour se faire reconnaître »**",
+    "Le mécanicien ayant reçu cet ordre doit s’arrêter à la gare suivante pour se faire reconnaître auprès du chef de sécurité.",
+    "Le train ne reprend sa marche que sur autorisation du chef de sécurité qui procède comme indiqué au point 3 du présent article pour expédier, le cas échéant, le train vers la gare suivante.",
+    "501.(2) – Le train est arrêté au besoin pour recevoir cet ordre.",
+    "***Article 502*** ***-*** **Expédition d'un train hors tour et en avance sur son horaire**",
+    "Un train peut être expédié hors tour d'un autre train et en avance sur son horaire sous les réserves expresses :",
+    "- qu'il ne transporte pas de voyageurs ;",
+    "- qu'il ne prenne pas d'avance sur l'horaire du train qui devait le précéder.",
+    "Lorsqu'un train est ainsi expédié, l'avance est mentionnée dans la dépêche d'annonce.",
+    "Le Régulateur est seul habilité à autoriser l'application de ces prescriptions.",
+    "La gare remet par ailleurs au mécanicien un bulletin 363 bis ainsi libellé :",
+    "**« Ordre est donné au mécanicien du train n°… de continuer hors tour du train n°…et en avance de ….minutes jusqu’à la gare de… (gare où cesse l’interversion) et de s’arrêter à cette gare »**"
+  ],
+  "keywords": ["interversion", "trains", "circulation", "régulateur", "dépêche", "ordre", "hors tour", "avance"]
+}
+        
         {
             "id": "reglement-s2b-003",
             "title": "Règlement S2B - Arrêt et retenue des trains",
