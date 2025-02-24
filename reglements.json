@@ -35,7 +35,30 @@
   ],
   "keywords": ["travaux", "2ème catégorie", "D.A.T.I.S.", "maintenance", "dérangements", "chef de sécurité", "agent d'entretien"]
 },
-    
+
+
+{
+  "id": "reglement-s6b-002",
+  "title": "Travaux de 1ère catégorie",
+  "category": "Travaux",
+  "content": [
+    "1. Définition:",
+    "Sont classés en 1ère catégorie les travaux simples:",
+    "- soit sans répercussion sur le fonctionnement des installations;",
+    "**Ces travaux n'entraînent pas l'application d'une procédure de dérangement par l'aiguilleur**",
+    "- soit avec des répercussions sur leur fonctionnement, mais sous réserve que le fonctionnement normal puisse être rétabli dans les **délais les plus brefs**. Ces travaux doivent être exécutés **entre les circulations**",
+    "Ces travaux font l'objet d'une entente verbale entre l'agent d'entretien et le chef de sécurité (ou l'aiguilleur de poste) dont dépend l'installation, **matérialisée par une dépêche** à inscrire par l'agent d'entretien dans le carnet d'enregistrements des dépêches S du chef de sécurité ou la transmettre par dépêche.",
+    "Texte de la dépêche",
+    "M... (Nom, fonction) à aiguilleur de... à.......mn. Travaux de 1ère catégorie: ... (Type d'installation) (2).... (Indice (3)) ».",
+    "La dépêche doit mentionner l'installation objet des travaux avec les indices prévus à l'annexe 1 de la CDP S6BN 01/2016. Une dépêche ne peut concerner qu'une seule **installation** et peut mentionner plusieurs indices.",
+    "À la fin des travaux et essais utiles, l'agent d'entretien inscrit sur le carnet d'enregistrements des dépêches S en regard de la dépêche ci-dessus l'heure d'achèvement des travaux en apposant son visa ou la transmet par dépêche.",
+    "Texte de la dépêche",
+    "M... (Nom, fonction) à aiguilleur de.... ......mn",
+    "Travaux de 1ère catégorie objet de ma dépêche n... sont achevés àh...mn"
+  ],
+  "keywords": ["travaux", "1ère catégorie", "maintenance", "dérangement", "procédure", "délais", "circulations", "entente", "dépêche"]
+},
+
     {
       "id": "reglement-s2b-004",
       "title": "Règlement S2B - Ententes et vérifications préalables concernant l'itinéraire de la manœuvre",
