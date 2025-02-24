@@ -1,66 +1,63 @@
 {
-    "reglements": [
-      {
-        "id": "reglement-s2b-001",
-        "title": "Règlement S2B - Limitation inopinée de vitesse",
-        "category": "Sécurité",
-        "content": [
-          "Lorsqu'une cause telle que l'état de la voie ou de ses abords conduit à limiter inopinément la vitesse des trains, l'agent qui constate cette situation, ou qui en est informé, doit immédiatement prendre les mesures utiles pour arrêter ou faire arrêter les trains se dirigeant vers la partie de voie intéressée, comme s'il s'agissait d'un obstacle (voir § 1 et 2 du chapitre 3).",
-          "L'agent doit également alerter d'urgence le chef de canton et le chef de district.",
-          "Si l'agent ayant constaté la situation est un agent de maintenance habilité, ce dernier autorise les conducteurs des trains arrêtés en pleine voie à se remettre en marche, à vitesse limitée si les conditions le permettent, en leur remettant un bulletin modèle 363 R ou un ordre écrit.",
-          "Au reçu du bulletin modèle 363 R ou de la dépêche de l'agent de maintenance, le Chef de sécurité, l'aiguilleur ou le Régulateur doit immédiatement prendre les mesures utiles pour arrêter les trains se dirigeant vers la partie de voie en cause, comme s'il s'agissait d'un obstacle (voir art. 301).",
-          "Le Chef de sécurité ou l'aiguilleur remet aux conducteurs de ces trains sur bulletin modèle 363 bis, l'ordre de limitation inopinée de vitesse."
-        ],
-        "keywords": ["limitation", "vitesse", "voie", "arrêt", "363R", "363bis"]
-      },
-
-        {
-  "id": "reglement-s2b-004",
-  "title": "Règlement S2B - Ententes et vérifications préalables concernant l'itinéraire de la manœuvre",
-  "category": "Manœuvres",
-  "content": [
-    "Avant de donner l'ordre de mise en mouvement, le chef de la manœuvre doit :",
-    "1. S'assurer que les parties de voie à parcourir sont libres et le resteront jusqu'à ce que la manœuvre soit terminée.",
-    "Il obtient ces assurances :",
-    "- pour les parties de voie qui dépendent d'un poste et dont la libération est contrôlée de ce poste, par entente avec l'aiguilleur ;",
-    "- pour les parties de voie ne dépendant pas d'un poste (ou qui dépendent d'un poste mais dont la libération n'est pas contrôlée de ce poste), en vérifiant que la voie est libre et en réalisant les ententes voulues pour qu'aucune circulation n'y soit plus engagée.",
-    "Le chef de la manœuvre vérifie ou fait vérifier notamment les points suivants :",
-    "⚫ aucun véhicule ne stationne sur les parties de voie intéressées, les sabots, cales anti-dérive,..., qui ont pu être posés sur ce trajet, ont été retirés,",
-    "⚫ les croisements (1) qui vont être abordés par la manœuvre sont dégagés,",
-    "⚫ aucun signal d'arrêt destiné à assurer la protection d'installations, celle du personnel travaillant sur la voie, etc..., n'interdit l'exécution du mouvement.",
-    "304.(1) - Le point de 'croisement bon' (point limite du garage franc) peut être repéré par un chevron pointe en haut, une traverse peinte en blanc,...",
-    "⚫ en l'absence de ce signal, ou si le signal s'adresse à un groupe de voies convergentes, ainsi qu'en cas de manœuvre sur sémaphore fermé, par un moyen de liaison quelconque tel que radio, téléphone, signaux convenus.",
-    "La vérification du collage des aiguilles n'est pas imposée :",
-    "⚫ s'il s'agit d'aiguilles dont la position n'est pas modifiée à l'occasion de l'exécution de la manœuvre, lorsque le collage a été vérifié lors d'une manœuvre précédente et que ces aiguilles n'ont pas été talonnées depuis,",
-    "⚫ s'il s'agit d'aiguilles dont la position est fixée par cadenas ou par serrure, dites aiguilles à position imposée (la vérification du collage incombe alors à l'agent qui fixe l'aiguille dans cette position).",
-    "3. S'assurer, le cas échéant, que les mesures de sécurité vis-à-vis du ou des passages à niveau susceptibles d'être engagés ou intéressés par la manœuvre sont prises ou le seront en temps utile (voir Règlement S10B * et éventuellement les Consignes S8A et S10B)."
-  ],
-  "keywords": ["manœuvre", "itinéraire", "voie", "libre", "entente", "aiguilleur", "sécurité", "croisement", "signal", "aiguille"]
-},
-        
-      {
-        "id": "reglement-s2b-002",
-        "title": "Règlement S2B - Protection des obstacles inopinés",
-        "category": "Sécurité",
-        "content": [
-          "En cas de danger nécessitant l'arrêt immédiat des trains, tout agent des trains (conducteur ou chef de train) disposant de la liaison radio doit immédiatement déclencher le signal d'alerte radio et émettre en même temps le signal d'alerte lumineux prévu par l'article 303.",
-          "Dès l'arrêt du train, il arrête l'émission du signal d'alerte radio et renseigne le Régulateur ou la gare, verbalement, sur le lieu et la nature du danger.",
-          "Tout agent disposant d'une torche à flamme rouge doit l'allumer immédiatement de jour comme de nuit en cas de danger nécessitant l'arrêt immédiat d'un train.",
-          "L'efficacité de la torche étant limitée par la durée de sa combustion (8 minutes environ), son emploi ne dispense pas de prendre d'autres mesures de protection d'urgence tant que l'agent qui l'utilise n'a pas acquis la certitude que la protection est assurée par les signaux d'une gare ou d'un poste (voir art.301)."
-        ],
-        "keywords": ["obstacle", "protection", "alerte", "radio", "torche", "303"]
-      },
-      {
-        "id": "reglement-s2b-003",
-        "title": "Règlement S2B - Arrêt et retenue des trains",
-        "category": "Circulation",
-        "content": [
-          "L'arrêt des trains est commandé par la fermeture en temps utile du signal d'arrêt convenable (signal carré, sémaphore, disque, ...) suivant le motif pour lequel les trains doivent être arrêtés et le point où l'arrêt doit être obtenu.",
-          "Lorsqu'un train est ainsi arrêté, il est retenu, s'il y a lieu, par le maintien à la fermeture du signal d'arrêt (signal carré ou sémaphore de B.M.) ou par le signal d'arrêt à main placé dans les conditions ci-dessus.",
-          "Lorsque les mesures utiles pour arrêter et retenir les trains ont été prises pour plusieurs motifs, il importe de s'assurer, avant de les lever, qu'aucun de ces motifs ne justifie plus leur maintien."
-        ],
-        "keywords": ["arrêt", "train", "signal", "retenue"]
-      }
-    ]
-    
-  }
+  "reglements": [
+    {
+      "id": "reglement-s2b-001",
+      "title": "Règlement S2B - Limitation inopinée de vitesse",
+      "category": "Sécurité",
+      "content": [
+        "Lorsqu'une cause telle que l'état de la voie ou de ses abords conduit à limiter inopinément la vitesse des trains, l'agent qui constate cette situation, ou qui en est informé, doit immédiatement prendre les mesures utiles pour arrêter ou faire arrêter les trains se dirigeant vers la partie de voie intéressée, comme s'il s'agissait d'un obstacle (voir § 1 et 2 du chapitre 3).",
+        "L'agent doit également alerter d'urgence le chef de canton et le chef de district.",
+        "Si l'agent ayant constaté la situation est un agent de maintenance habilité, ce dernier autorise les conducteurs des trains arrêtés en pleine voie à se remettre en marche, à vitesse limitée si les conditions le permettent, en leur remettant un bulletin modèle 363 R ou un ordre écrit.",
+        "Au reçu du bulletin modèle 363 R ou de la dépêche de l'agent de maintenance, le Chef de sécurité, l'aiguilleur ou le Régulateur doit immédiatement prendre les mesures utiles pour arrêter les trains se dirigeant vers la partie de voie en cause, comme s'il s'agissait d'un obstacle (voir art. 301).",
+        "Le Chef de sécurité ou l'aiguilleur remet aux conducteurs de ces trains sur bulletin modèle 363 bis, l'ordre de limitation inopinée de vitesse."
+      ],
+      "keywords": ["limitation", "vitesse", "voie", "arrêt", "363R", "363bis"]
+    },
+    {
+      "id": "reglement-s2b-004",
+      "title": "Règlement S2B - Ententes et vérifications préalables concernant l'itinéraire de la manœuvre",
+      "category": "Manœuvres",
+      "content": [
+        "Avant de donner l'ordre de mise en mouvement, le chef de la manœuvre doit :",
+        "1. S'assurer que les parties de voie à parcourir sont libres et le resteront jusqu'à ce que la manœuvre soit terminée.",
+        "Il obtient ces assurances :",
+        "- pour les parties de voie qui dépendent d'un poste et dont la libération est contrôlée de ce poste, par entente avec l'aiguilleur ;",
+        "- pour les parties de voie ne dépendant pas d'un poste (ou qui dépendent d'un poste mais dont la libération n'est pas contrôlée de ce poste), en vérifiant que la voie est libre et en réalisant les ententes voulues pour qu'aucune circulation n'y soit plus engagée.",
+        "Le chef de la manœuvre vérifie ou fait vérifier notamment les points suivants :",
+        "⚫ aucun véhicule ne stationne sur les parties de voie intéressées, les sabots, cales anti-dérive,..., qui ont pu être posés sur ce trajet, ont été retirés,",
+        "⚫ les croisements (1) qui vont être abordés par la manœuvre sont dégagés,",
+        "⚫ aucun signal d'arrêt destiné à assurer la protection d'installations, celle du personnel travaillant sur la voie, etc..., n'interdit l'exécution du mouvement.",
+        "304.(1) - Le point de 'croisement bon' (point limite du garage franc) peut être repéré par un chevron pointe en haut, une traverse peinte en blanc,...",
+        "⚫ en l'absence de ce signal, ou si le signal s'adresse à un groupe de voies convergentes, ainsi qu'en cas de manœuvre sur sémaphore fermé, par un moyen de liaison quelconque tel que radio, téléphone, signaux convenus.",
+        "La vérification du collage des aiguilles n'est pas imposée :",
+        "⚫ s'il s'agit d'aiguilles dont la position n'est pas modifiée à l'occasion de l'exécution de la manœuvre, lorsque le collage a été vérifié lors d'une manœuvre précédente et que ces aiguilles n'ont pas été talonnées depuis,",
+        "⚫ s'il s'agit d'aiguilles dont la position est fixée par cadenas ou par serrure, dites aiguilles à position imposée (la vérification du collage incombe alors à l'agent qui fixe l'aiguille dans cette position).",
+        "3. S'assurer, le cas échéant, que les mesures de sécurité vis-à-vis du ou des passages à niveau susceptibles d'être engagés ou intéressés par la manœuvre sont prises ou le seront en temps utile (voir Règlement S10B * et éventuellement les Consignes S8A et S10B)."
+      ],
+      "keywords": ["manœuvre", "itinéraire", "voie", "libre", "entente", "aiguilleur", "sécurité", "croisement", "signal", "aiguille"]
+    },
+    {
+      "id": "reglement-s2b-002",
+      "title": "Règlement S2B - Protection des obstacles inopinés",
+      "category": "Sécurité",
+      "content": [
+        "En cas de danger nécessitant l'arrêt immédiat des trains, tout agent des trains (conducteur ou chef de train) disposant de la liaison radio doit immédiatement déclencher le signal d'alerte radio et émettre en même temps le signal d'alerte lumineux prévu par l'article 303.",
+        "Dès l'arrêt du train, il arrête l'émission du signal d'alerte radio et renseigne le Régulateur ou la gare, verbalement, sur le lieu et la nature du danger.",
+        "Tout agent disposant d'une torche à flamme rouge doit l'allumer immédiatement de jour comme de nuit en cas de danger nécessitant l'arrêt immédiat d'un train.",
+        "L'efficacité de la torche étant limitée par la durée de sa combustion (8 minutes environ), son emploi ne dispense pas de prendre d'autres mesures de protection d'urgence tant que l'agent qui l'utilise n'a pas acquis la certitude que la protection est assurée par les signaux d'une gare ou d'un poste (voir art.301)."
+      ],
+      "keywords": ["obstacle", "protection", "alerte", "radio", "torche", "303"]
+    },
+    {
+      "id": "reglement-s2b-003",
+      "title": "Règlement S2B - Arrêt et retenue des trains",
+      "category": "Circulation",
+      "content": [
+        "L'arrêt des trains est commandé par la fermeture en temps utile du signal d'arrêt convenable (signal carré, sémaphore, disque, ...) suivant le motif pour lequel les trains doivent être arrêtés et le point où l'arrêt doit être obtenu.",
+        "Lorsqu'un train est ainsi arrêté, il est retenu, s'il y a lieu, par le maintien à la fermeture du signal d'arrêt (signal carré ou sémaphore de B.M.) ou par le signal d'arrêt à main placé dans les conditions ci-dessus.",
+        "Lorsque les mesures utiles pour arrêter et retenir les trains ont été prises pour plusieurs motifs, il importe de s'assurer, avant de les lever, qu'aucun de ces motifs ne justifie plus leur maintien."
+      ],
+      "keywords": ["arrêt", "train", "signal", "retenue"]
+    }
+  ]
+}
