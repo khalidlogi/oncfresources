@@ -13,6 +13,31 @@
         ],
         "keywords": ["limitation", "vitesse", "voie", "arrêt", "363R", "363bis"]
       },
+
+        {
+  "id": "reglement-s2b-004",
+  "title": "Règlement S2B - Ententes et vérifications préalables concernant l'itinéraire de la manœuvre",
+  "category": "Manœuvres",
+  "content": [
+    "Avant de donner l'ordre de mise en mouvement, le chef de la manœuvre doit :",
+    "1. S'assurer que les parties de voie à parcourir sont libres et le resteront jusqu'à ce que la manœuvre soit terminée.",
+    "Il obtient ces assurances :",
+    "- pour les parties de voie qui dépendent d'un poste et dont la libération est contrôlée de ce poste, par entente avec l'aiguilleur ;",
+    "- pour les parties de voie ne dépendant pas d'un poste (ou qui dépendent d'un poste mais dont la libération n'est pas contrôlée de ce poste), en vérifiant que la voie est libre et en réalisant les ententes voulues pour qu'aucune circulation n'y soit plus engagée.",
+    "Le chef de la manœuvre vérifie ou fait vérifier notamment les points suivants :",
+    "⚫ aucun véhicule ne stationne sur les parties de voie intéressées, les sabots, cales anti-dérive,..., qui ont pu être posés sur ce trajet, ont été retirés,",
+    "⚫ les croisements (1) qui vont être abordés par la manœuvre sont dégagés,",
+    "⚫ aucun signal d'arrêt destiné à assurer la protection d'installations, celle du personnel travaillant sur la voie, etc..., n'interdit l'exécution du mouvement.",
+    "304.(1) - Le point de 'croisement bon' (point limite du garage franc) peut être repéré par un chevron pointe en haut, une traverse peinte en blanc,...",
+    "⚫ en l'absence de ce signal, ou si le signal s'adresse à un groupe de voies convergentes, ainsi qu'en cas de manœuvre sur sémaphore fermé, par un moyen de liaison quelconque tel que radio, téléphone, signaux convenus.",
+    "La vérification du collage des aiguilles n'est pas imposée :",
+    "⚫ s'il s'agit d'aiguilles dont la position n'est pas modifiée à l'occasion de l'exécution de la manœuvre, lorsque le collage a été vérifié lors d'une manœuvre précédente et que ces aiguilles n'ont pas été talonnées depuis,",
+    "⚫ s'il s'agit d'aiguilles dont la position est fixée par cadenas ou par serrure, dites aiguilles à position imposée (la vérification du collage incombe alors à l'agent qui fixe l'aiguille dans cette position).",
+    "3. S'assurer, le cas échéant, que les mesures de sécurité vis-à-vis du ou des passages à niveau susceptibles d'être engagés ou intéressés par la manœuvre sont prises ou le seront en temps utile (voir Règlement S10B * et éventuellement les Consignes S8A et S10B)."
+  ],
+  "keywords": ["manœuvre", "itinéraire", "voie", "libre", "entente", "aiguilleur", "sécurité", "croisement", "signal", "aiguille"]
+}
+        
       {
         "id": "reglement-s2b-002",
         "title": "Règlement S2B - Protection des obstacles inopinés",
@@ -37,4 +62,5 @@
         "keywords": ["arrêt", "train", "signal", "retenue"]
       }
     ]
+    
   }
