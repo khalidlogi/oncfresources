@@ -1,183 +1,236 @@
 {
-  "reglements": [
-    {
-      "id": "reglement-s2b-001",
-      "title": "Règlement S2B - Limitation inopinée de vitesse",
-      "category": "Sécurité",
-      "content": [
-        "Lorsqu'une cause telle que l'état de la voie ou de ses abords conduit à limiter inopinément la vitesse des trains, l'agent qui constate cette situation, ou qui en est informé, doit immédiatement prendre les mesures utiles pour arrêter ou faire arrêter les trains se dirigeant vers la partie de voie intéressée, comme s'il s'agissait d'un obstacle (voir § 1 et 2 du chapitre 3).",
-        "L'agent doit également alerter d'urgence le chef de canton et le chef de district.",
-        "Si l'agent ayant constaté la situation est un agent de maintenance habilité, ce dernier autorise les conducteurs des trains arrêtés en pleine voie à se remettre en marche, à vitesse limitée si les conditions le permettent, en leur remettant un bulletin modèle 363 R ou un ordre écrit.",
-        "Au reçu du bulletin modèle 363 R ou de la dépêche de l'agent de maintenance, le Chef de sécurité, l'aiguilleur ou le Régulateur doit immédiatement prendre les mesures utiles pour arrêter les trains se dirigeant vers la partie de voie en cause, comme s'il s'agissait d'un obstacle (voir art. 301).",
-        "Le Chef de sécurité ou l'aiguilleur remet aux conducteurs de ces trains sur bulletin modèle 363 bis, l'ordre de limitation inopinée de vitesse."
-      ],
-      "keywords": ["limitation", "vitesse", "voie", "arrêt", "363R", "363bis"]
-    },
-  
-{
-  "id": "reglement-s6b-001",
-  "title": "Travaux 2ème catégorie CDS6B 32",
-  "category": "Travaux",
-  "content": [
-    "Les travaux classés en 2e catégorie sont ceux dont les répercussions ne répondent pas à la définition des travaux de 1ère catégorie décrite ci-dessus et prévue à l'article 201 du RG S6B. Pour simplifier, il s'agit des travaux de maintenance préventive et de relève des dérangements qui ne sont pas répertoriés à l'annexe I de la CDP S6BN 01/2016.",
-    "1. **Mesures à prendre avant le début des travaux D.A.T.I.S.**",
-    "L'agent d'entretien :",
-    "- Établit une D.A.T.I.S. dans laquelle il précise notamment la **nature du travail, ses conséquences (y compris la nature des dérangements)** et la présente au chef de sécurité responsable de l'installation. (Pour les particularités FES BAB FTOUH au CS FES-Gares télécommandées PCC au chef circulation B ANSAR- PPV à la gare gérante, BAPR DV à la gare d'entrée du canton, Gare à SI : lorsque la gare est ouverte au service)",
-    "Le chef de sécurité :",
-    "- Prend, au moment opportun, les mesures nécessaires en fonction des dérangements indiqués par l'agent d'entretien. Ces mesures sont maintenues jusqu'à la restitution de la D.A.T.I.S.",
-    "- Complète, le cas échéant après avoir reçu la dépêche de l'aiguilleur (ou du chef de sécurité de l'autre gare), le carnet de travaux I.S. et autorise les travaux par écrit sur la D.A.T.I.S. ou par dépêche, en précisant l'installation(s) concernée(s) et la nature du dérangement. Il spécifie également le moment à partir duquel ces mesures doivent être prises, par exemple immédiatement après le passage d'un train spécifique ou de plusieurs trains en fonction du nombre de voies impactées par les travaux.",
-    "Même si les travaux nécessitent l'intervention de plusieurs agents spécialisés, une seule D.A.T.I.S. est présentée au chef de sécurité. Le rédacteur de la demande doit tenir compte des indications fournies par les autres intervenants.",
-    "1. **Mesures à prendre à la fin des travaux**",
-    "Une fois les travaux terminés :",
-    "- Des **vérifications** et essais pertinents sont effectués pour les opérations correspondantes faisant partie du service habituel du poste. Si nécessaire, le chef de sécurité ou l'aiguilleur peut être sollicité pour s'assurer du bon fonctionnement normal de l'installation concernée.",
-    "- L'agent d'entretien complète ensuite la D.A.T.I.S. pour indiquer que les travaux sont terminés, soit en complétant le carnet de travaux LS (Liste des Services), soit par dépêche, et en informe le chef de sécurité.",
-    "- Le chef de sécurité annule les mesures de sécurité correspondantes. Si les travaux ont impliqué plusieurs agents spécialisés, ceux-ci apposent leur signature sur la D.A.T.I.S. avant sa restitution pour attester des vérifications et essais qu'ils ont effectués."
-  ],
-  "keywords": ["travaux", "2ème catégorie", "D.A.T.I.S.", "maintenance", "dérangements", "chef de sécurité", "agent d'entretien"]
-},
-
-    {
-  "id": "reglement-s6b-004",
-  "title": "Circulation des trains facultatifs et spéciaux MI",
-  "category": "Circulation",
-  "content": [
-    "1. Trains facultatifs et spéciaux commandés",
-    "Lorsque l'un de ces trains est commandé, sa circulation, pour la journée considérée, s'effectue comme pour un train régulier, sans demande de voie.",
-    "Aucune mention à ce sujet n'est portée sur le journal de train.",
-    "2. Trains facultatifs et spéciaux non commandés",
-    "**Lorsque l'un de ces trains n'est pas commandé sur tout ou partie de son parcours, sa circulation sur ce parcours a lieu à l'initiative du Régulateur (1) par demande de voie faite directement entre les gares.**",
-    "Si, par exemple, le train n'a pu être commandé aux gares de A, B, C et D, les dispositions suivantes doivent strictement être appliquées:",
-    "111. (1) - Conformément au point 3 de l'article 404 du Règlement S2A.",
-    "Le chef de sécurité d'une gare A, avant d'expédier un train facultatif ou spécial non commandé vers la gare suivante B, doit avoir acquis l'assurance:",
-    "- que le dernier train expédié de B vers A est arrivé à A;",
-    "- qu'aucun train ne sera plus expédié de B vers A jusqu'au moment où ce train facultatif ou spécial sera arrivé à B.",
-    "A cet effet, le chef de sécurité de la gare A opère comme suit:",
-    "- il prend les mesures utiles pour arrêter et retenir le train facultatif ou spécial jusqu'à ce que la gare B lui ait accordé la voie pour ce train;",
-    "- il transmet au chef de sécurité de la gare B la dépêche de demande de voie ci-après:",
-    "**« A à B - Dernier train reçu de B est train n°… (train à marche tracée ou à marche indéterminée) à… h…mn.**",
-    "**Puis-je vous expédier train facultatif n°… (ou train spécial) non commandé ? ».**",
-    "Le chef de sécurité de la gare B, s'il est d'accord, prend les mesures utiles pour arrêter et retenir les trains se dirigeant vers A, puis, après avoir vérifié que le dernier train expédié vers A est bien celui indiqué par A, il accorde la voie pour le train facultatif ou spécial par dépêche sous la forme :",
-    "**« B à A - Dernier train expédié vers A est bien train n°… à… h…mn.**",
-    "**Pouvez m'expédier train facultatif n°… (ou train spécial) non commandé ? ».**",
-    "D'autre part, comme pour la gare A, le chef de sécurité de la gare B prend les mesures utiles pour arrêter et retenir le train facultatif (ou spécial) jusqu'à ce que la gare C lui ait accordé la voie pour ce train.",
-    "Les mesures prises par la gare B pour arrêter et retenir les trains se dirigeant vers A ne doivent être supprimées, le cas échéant, qu'après l'arrivée:",
-    " soit de la circulation non commandée, si celle-ci ne doit croiser aucun train à la gare,",
-    " soit du ou des trains croiseurs et de la circulation non commandée, si cette dernière doit y être croisée effectivement ou pour ordre.",
-    "Si rien du point de vue du cantonnement ne s'y oppose, le train peut franchir la gare B sans arrêt, le mécanicien respecte alors la marche prévue par les Tableaux Horaires.",
-    "Le chef de sécurité de la gare C opère de même avec le chef de sécurité de la gare suivante D.",
-    "3. Dispositions communes aux trains facultatifs et spéciaux non commandés",
-    "En application du point 2 ci-dessus, lorsqu'un train facultatif ou spécial circule avec demande de voie et qu'il doit, avant de quitter la gare A, y croiser un autre train, cette gare ne fait pas la demande de voie tant que le train croiseur n'est pas arrivé.",
-    "Si le train croiseur est en retard, la gare A, à l'initiative du Régulateur, échange avec la gare suivante B les dépêches de changement de croisement (article 107). Si le croisement est reporté à B, il est inutile de passer les dépêches de demande de voie.",
-    "**Article 112 -** Circulation des trains à marche indéterminée",
-    "1. Demande de voie",
-    "Les trains à marche indéterminée circulent par demande de voie faite de gare à gare dans les conditions ci-après.",
-    "Le chef de sécurité d'une gare A, avant d'expédier un train à marche indéterminée vers la gare suivante B, doit avoir acquis l'assurance :",
-    "- que le dernier train expédié de B vers A est arrivé à A;",
-    "- qu'aucun train ne sera plus expédié de B vers A jusqu'au moment où le train à marche indéterminée sera arrivé à B.",
-    "A cet effet, le chef de sécurité de la gare A opère comme suit:",
-    "- il prend les mesures utiles pour arrêter et retenir le train à marche indéterminée jusqu'à ce que la gare B lui ait accordé la voie pour ce train;",
-    "- il transmet au chef de sécurité de la gare B la dépêche de demande de voie ci-après :",
-    "**« A à B - Dernier train reçu de B est train n°… (train à marche tracée ou à marche indéterminée) à… h… mn.**",
-    "**Puis-je vous expédier (engin moteur de secours par exemple) se rendant en marche indéterminée jusqu’à… ? ».**",
-    "Le chef de sécurité de la gare B, s'il est d'accord, prend les mesures utiles pour arrêter et retenir les trains se dirigeant vers A; puis, après avoir vérifié que le dernier train expédié vers A est bien celui indiqué par A, il accorde la voie pour le train à marche indéterminée par dépêche sous la forme :",
-    "**« B à A - Dernier train expédié vers A est bien train n°… à… h…mn. Pouvez m'expédier… (engin moteur de secours par exemple) ».**",
-    "D'autre part, comme pour A, le chef de sécurité de la gare B prend les mesures utiles pour arrêter et retenir le train à marche indéterminée jusqu'à ce que la gare C lui ait accordé la voie pour ce train ou jusqu'après avoir terminé les opérations de garage de ce train pour laisser passer un train de même sens.",
-    "Les mesures prises par la gare B pour arrêter et retenir les trains se dirigeant vers A ne doivent être supprimées qu'après l'arrivée de la circulation à marche indéterminée et son garage (1) pour laisser passer éventuellement un train de sens contraire.",
-    "Le chef de sécurité de la gare C opère de même avec le chef de sécurité de la gare suivante D.",
-    "2. Circulation",
-    "Le chef de sécurité de la gare origine inscrit sur le journal de train « colonne 16 » la mention suivante (2):",
-    "**« Train n°… (engin moteur de secours par exemple) se rendra en marche indéterminée de gare en gare (3) jusqu'à… (gare terminus) ».**",
-    "112.(1) - Par le mot garage, il faut entendre garage pour laisser passer même un train de sens contraire. Le garage d'un train à marche indéterminée pour un train de sens contraire ne donne pas lieu à visa de croisement.",
-    "112.(2) - Pour les circulations HLP, cette inscription est portée sur le bulletin de traction."
-    },
-{
-  "id": "reglement-s6b-003",
-  "title": "Conditions d'annonce et de reddition de voie libre",
-  "category": "Circulation",
-  "content": [
-    "- **Sur voie unique :** lorsqu'un train **X** doit être expédié après l'arrivée d'un train de sens contraire **Y**, le train **X** ne doit être annoncé qu'après l'arrivée du train **Y** et après la reddition de voie libre derrière ce train (Paragraphe b - voie unique du point 5 ci-après).",
-    "4. Reddition de voie libre derrière les trains",
-    "Si le train est en provenance de la gare précédente **A, le chef de sécurité, après s’être assuré que le train est complet** (3)**, rend voie libre derrière ce train à la gare précédente A sous la forme :",
-    "***« B à A, train n°… est arrivé complet à ma gare ».***",
-    "Le chef de sécurité de la gare **A** accuse réception de cette reddition sous la forme :",
-    "***« A à B, pris note de la reddition de voie libre derrière train n°… ».***",
-    "Dans le cas où pour une cause quelconque, le chef de sécurité de **B** n’a pu se rendre compte que le train est complet, il peut néanmoins rendre voie libre s’il obtient du chef de sécurité de la gare suivante **C** l’assurance que le train est bien parvenu complet à cette gare par un échange de dépêches ainsi rédigées :",
-    "***« B à C, train n°… est-il parvenu complet ? ».***",
-    "***« C à B, train n°… parvenu complet ».***",
-    "Lorsque le chef de sécurité de **B** est avisé par le chef de train d’un train de la présence d’un danger sur la voie ou à ses abords, il doit, avant de rendre voie libre, inviter par dépêche le chef de sécurité de la gare précédente **A** à **maintenir les mesures** prises pour arrêter et retenir les trains en attendant de nouvelles instructions.",
-    "102. (3) - Cette assurance est obtenue par la constatation de la présence du signal réglementaire sur le véhicule de queue (voir Règlement S1E).",
-    "5. Conditions de reddition de voie libre",
-    "Sur les lignes à double voie, voie libre derrière un train ne doit être rendue qu’après le départ ou le passage du train, ou bien, dans le cas de garage, que lorsque le garage du train est terminé."
-  ],
-  "keywords": ["annonce", "reddition", "voie libre", "train", "sécurité", "dépêche", "danger"]
-},
-{
-  "id": "reglement-s6b-002",
-  "title": "Travaux de 1ère catégorie",
-  "category": "Travaux",
-  "content": [
-    "1. Définition:",
-    "Sont classés en 1ère catégorie les travaux simples:",
-    "- soit sans répercussion sur le fonctionnement des installations;",
-    "**Ces travaux n'entraînent pas l'application d'une procédure de dérangement par l'aiguilleur**",
-    "- soit avec des répercussions sur leur fonctionnement, mais sous réserve que le fonctionnement normal puisse être rétabli dans les **délais les plus brefs**. Ces travaux doivent être exécutés **entre les circulations**",
-    "Ces travaux font l'objet d'une entente verbale entre l'agent d'entretien et le chef de sécurité (ou l'aiguilleur de poste) dont dépend l'installation, **matérialisée par une dépêche** à inscrire par l'agent d'entretien dans le carnet d'enregistrements des dépêches S du chef de sécurité ou la transmettre par dépêche.",
-    "Texte de la dépêche",
-    "M... (Nom, fonction) à aiguilleur de... à.......mn. Travaux de 1ère catégorie: ... (Type d'installation) (2).... (Indice (3)) ».",
-    "La dépêche doit mentionner l'installation objet des travaux avec les indices prévus à l'annexe 1 de la CDP S6BN 01/2016. Une dépêche ne peut concerner qu'une seule **installation** et peut mentionner plusieurs indices.",
-    "À la fin des travaux et essais utiles, l'agent d'entretien inscrit sur le carnet d'enregistrements des dépêches S en regard de la dépêche ci-dessus l'heure d'achèvement des travaux en apposant son visa ou la transmet par dépêche.",
-    "Texte de la dépêche",
-    "M... (Nom, fonction) à aiguilleur de.... ......mn",
-    "Travaux de 1ère catégorie objet de ma dépêche n... sont achevés àh...mn"
-  ],
-  "keywords": ["travaux", "1ère catégorie", "maintenance", "dérangement", "procédure", "délais", "circulations", "entente", "dépêche"]
-},
-
-    {
-      "id": "reglement-s2b-004",
-      "title": "Règlement S2B - Ententes et vérifications préalables concernant l'itinéraire de la manœuvre",
-      "category": "Manœuvres",
-      "content": [
-        "Avant de donner l'ordre de mise en mouvement, le chef de la manœuvre doit :",
-        "1. S'assurer que les parties de voie à parcourir sont libres et le resteront jusqu'à ce que la manœuvre soit terminée.",
-        "Il obtient ces assurances :",
-        "- pour les parties de voie qui dépendent d'un poste et dont la libération est contrôlée de ce poste, par entente avec l'aiguilleur ;",
-        "- pour les parties de voie ne dépendant pas d'un poste (ou qui dépendent d'un poste mais dont la libération n'est pas contrôlée de ce poste), en vérifiant que la voie est libre et en réalisant les ententes voulues pour qu'aucune circulation n'y soit plus engagée.",
-        "Le chef de la manœuvre vérifie ou fait vérifier notamment les points suivants :",
-        "⚫ aucun véhicule ne stationne sur les parties de voie intéressées, les sabots, cales anti-dérive,..., qui ont pu être posés sur ce trajet, ont été retirés,",
-        "⚫ les croisements (1) qui vont être abordés par la manœuvre sont dégagés,",
-        "⚫ aucun signal d'arrêt destiné à assurer la protection d'installations, celle du personnel travaillant sur la voie, etc..., n'interdit l'exécution du mouvement.",
-        "304.(1) - Le point de 'croisement bon' (point limite du garage franc) peut être repéré par un chevron pointe en haut, une traverse peinte en blanc,...",
-        "⚫ en l'absence de ce signal, ou si le signal s'adresse à un groupe de voies convergentes, ainsi qu'en cas de manœuvre sur sémaphore fermé, par un moyen de liaison quelconque tel que radio, téléphone, signaux convenus.",
-        "La vérification du collage des aiguilles n'est pas imposée :",
-        "⚫ s'il s'agit d'aiguilles dont la position n'est pas modifiée à l'occasion de l'exécution de la manœuvre, lorsque le collage a été vérifié lors d'une manœuvre précédente et que ces aiguilles n'ont pas été talonnées depuis,",
-        "⚫ s'il s'agit d'aiguilles dont la position est fixée par cadenas ou par serrure, dites aiguilles à position imposée (la vérification du collage incombe alors à l'agent qui fixe l'aiguille dans cette position).",
-        "3. S'assurer, le cas échéant, que les mesures de sécurité vis-à-vis du ou des passages à niveau susceptibles d'être engagés ou intéressés par la manœuvre sont prises ou le seront en temps utile (voir Règlement S10B * et éventuellement les Consignes S8A et S10B)."
-      ],
-      "keywords": ["manœuvre", "itinéraire", "voie", "libre", "entente", "aiguilleur", "sécurité", "croisement", "signal", "aiguille"]
-    },
-    {
-      "id": "reglement-s2b-002",
-      "title": "Règlement S2B - Protection des obstacles inopinés",
-      "category": "Sécurité",
-      "content": [
-        "En cas de danger nécessitant l'arrêt immédiat des trains, tout agent des trains (conducteur ou chef de train) disposant de la liaison radio doit immédiatement déclencher le signal d'alerte radio et émettre en même temps le signal d'alerte lumineux prévu par l'article 303.",
-        "Dès l'arrêt du train, il arrête l'émission du signal d'alerte radio et renseigne le Régulateur ou la gare, verbalement, sur le lieu et la nature du danger.",
-        "Tout agent disposant d'une torche à flamme rouge doit l'allumer immédiatement de jour comme de nuit en cas de danger nécessitant l'arrêt immédiat d'un train.",
-        "L'efficacité de la torche étant limitée par la durée de sa combustion (8 minutes environ), son emploi ne dispense pas de prendre d'autres mesures de protection d'urgence tant que l'agent qui l'utilise n'a pas acquis la certitude que la protection est assurée par les signaux d'une gare ou d'un poste (voir art.301)."
-      ],
-      "keywords": ["obstacle", "protection", "alerte", "radio", "torche", "303"]
-    },
-    {
-      "id": "reglement-s2b-003",
-      "title": "Règlement S2B - Arrêt et retenue des trains",
-      "category": "Circulation",
-      "content": [
-        "L'arrêt des trains est commandé par la fermeture en temps utile du signal d'arrêt convenable (signal carré, sémaphore, disque, ...) suivant le motif pour lequel les trains doivent être arrêtés et le point où l'arrêt doit être obtenu.",
-        "Lorsqu'un train est ainsi arrêté, il est retenu, s'il y a lieu, par le maintien à la fermeture du signal d'arrêt (signal carré ou sémaphore de B.M.) ou par le signal d'arrêt à main placé dans les conditions ci-dessus.",
-        "Lorsque les mesures utiles pour arrêter et retenir les trains ont été prises pour plusieurs motifs, il importe de s'assurer, avant de les lever, qu'aucun de ces motifs ne justifie plus leur maintien."
-      ],
-      "keywords": ["arrêt", "train", "signal", "retenue"]
-    }
-  ]
+    "reglements": [
+        {
+            "id": "reglement-s2b-001",
+            "title": "Règlement S2B - Limitation inopinée de vitesse",
+            "category": "Sécurité",
+            "content": [
+                "Lorsqu'une cause telle que l'état de la voie ou de ses abords conduit à limiter inopinément la vitesse des trains, l'agent qui constate cette situation, ou qui en est informé, doit immédiatement prendre les mesures utiles pour arrêter ou faire arrêter les trains se dirigeant vers la partie de voie intéressée, comme s'il s'agissait d'un obstacle (voir § 1 et 2 du chapitre 3).",
+                "L'agent doit également alerter d'urgence le chef de canton et le chef de district.",
+                "Si l'agent ayant constaté la situation est un agent de maintenance habilité, ce dernier autorise les conducteurs des trains arrêtés en pleine voie à se remettre en marche, à vitesse limitée si les conditions le permettent, en leur remettant un bulletin modèle 363 R ou un ordre écrit.",
+                "Au reçu du bulletin modèle 363 R ou de la dépêche de l'agent de maintenance, le Chef de sécurité, l'aiguilleur ou le Régulateur doit immédiatement prendre les mesures utiles pour arrêter les trains se dirigeant vers la partie de voie en cause, comme s'il s'agissait d'un obstacle (voir art. 301).",
+                "Le Chef de sécurité ou l'aiguilleur remet aux conducteurs de ces trains sur bulletin modèle 363 bis, l'ordre de limitation inopinée de vitesse."
+            ],
+            "keywords": [
+                "limitation",
+                "vitesse",
+                "voie",
+                "arrêt",
+                "363R",
+                "363bis"
+            ]
+        },
+        {
+            "id": "reglement-s6b-001",
+            "title": "Travaux 2ème catégorie CDS6B 32",
+            "category": "Travaux",
+            "content": [
+                "Les travaux classés en 2e catégorie sont ceux dont les répercussions ne répondent pas à la définition des travaux de 1ère catégorie décrite ci-dessus et prévue à l'article 201 du RG S6B. Pour simplifier, il s'agit des travaux de maintenance préventive et de relève des dérangements qui ne sont pas répertoriés à l'annexe I de la CDP S6BN 01/2016.",
+                "1. **Mesures à prendre avant le début des travaux D.A.T.I.S.**",
+                "L'agent d'entretien :",
+                "- Établit une D.A.T.I.S. dans laquelle il précise notamment la **nature du travail, ses conséquences (y compris la nature des dérangements)** et la présente au chef de sécurité responsable de l'installation. (Pour les particularités FES BAB FTOUH au CS FES-Gares télécommandées PCC au chef circulation B ANSAR- PPV à la gare gérante, BAPR DV à la gare d'entrée du canton, Gare à SI : lorsque la gare est ouverte au service)",
+                "Le chef de sécurité :",
+                "- Prend, au moment opportun, les mesures nécessaires en fonction des dérangements indiqués par l'agent d'entretien. Ces mesures sont maintenues jusqu'à la restitution de la D.A.T.I.S.",
+                "- Complète, le cas échéant après avoir reçu la dépêche de l'aiguilleur (ou du chef de sécurité de l'autre gare), le carnet de travaux I.S. et autorise les travaux par écrit sur la D.A.T.I.S. ou par dépêche, en précisant l'installation(s) concernée(s) et la nature du dérangement. Il spécifie également le moment à partir duquel ces mesures doivent être prises, par exemple immédiatement après le passage d'un train spécifique ou de plusieurs trains en fonction du nombre de voies impactées par les travaux.",
+                "Même si les travaux nécessitent l'intervention de plusieurs agents spécialisés, une seule D.A.T.I.S. est présentée au chef de sécurité. Le rédacteur de la demande doit tenir compte des indications fournies par les autres intervenants.",
+                "1. **Mesures à prendre à la fin des travaux**",
+                "Une fois les travaux terminés :",
+                "- Des **vérifications** et essais pertinents sont effectués pour les opérations correspondantes faisant partie du service habituel du poste. Si nécessaire, le chef de sécurité ou l'aiguilleur peut être sollicité pour s'assurer du bon fonctionnement normal de l'installation concernée.",
+                "- L'agent d'entretien complète ensuite la D.A.T.I.S. pour indiquer que les travaux sont terminés, soit en complétant le carnet de travaux LS (Liste des Services), soit par dépêche, et en informe le chef de sécurité.",
+                "- Le chef de sécurité annule les mesures de sécurité correspondantes. Si les travaux ont impliqué plusieurs agents spécialisés, ceux-ci apposent leur signature sur la D.A.T.I.S. avant sa restitution pour attester des vérifications et essais qu'ils ont effectués."
+            ],
+            "keywords": [
+                "travaux",
+                "2ème catégorie",
+                "D.A.T.I.S.",
+                "maintenance",
+                "dérangements",
+                "chef de sécurité",
+                "agent d'entretien"
+            ]
+        },
+        {
+            "id": "reglement-s6b-004",
+            "title": "Circulation des trains facultatifs et spéciaux MI",
+            "category": "Circulation",
+            "content": [
+                "1. Trains facultatifs et spéciaux commandés",
+                "Lorsque l'un de ces trains est commandé, sa circulation, pour la journée considérée, s'effectue comme pour un train régulier, sans demande de voie.",
+                "Aucune mention à ce sujet n'est portée sur le journal de train.",
+                "2. Trains facultatifs et spéciaux non commandés",
+                "**Lorsque l'un de ces trains n'est pas commandé sur tout ou partie de son parcours, sa circulation sur ce parcours a lieu à l'initiative du Régulateur (1) par demande de voie faite directement entre les gares.**",
+                "Si, par exemple, le train n'a pu être commandé aux gares de A, B, C et D, les dispositions suivantes doivent strictement être appliquées:",
+                "111. (1) - Conformément au point 3 de l'article 404 du Règlement S2A.",
+                "Le chef de sécurité d'une gare A, avant d'expédier un train facultatif ou spécial non commandé vers la gare suivante B, doit avoir acquis l'assurance:",
+                "- que le dernier train expédié de B vers A est arrivé à A;",
+                "- qu'aucun train ne sera plus expédié de B vers A jusqu'au moment où ce train facultatif ou spécial sera arrivé à B.",
+                "A cet effet, le chef de sécurité de la gare A opère comme suit:",
+                "- il prend les mesures utiles pour arrêter et retenir le train facultatif ou spécial jusqu'à ce que la gare B lui ait accordé la voie pour ce train;",
+                "- il transmet au chef de sécurité de la gare B la dépêche de demande de voie ci-après:",
+                "**« A à B - Dernier train reçu de B est train n°… (train à marche tracée ou à marche indéterminée) à… h…mn.**",
+                "**Puis-je vous expédier train facultatif n°… (ou train spécial) non commandé ? ».**",
+                "Le chef de sécurité de la gare B, s'il est d'accord, prend les mesures utiles pour arrêter et retenir les trains se dirigeant vers A, puis, après avoir vérifié que le dernier train expédié vers A est bien celui indiqué par A, il accorde la voie pour le train facultatif ou spécial par dépêche sous la forme :",
+                "**« B à A - Dernier train expédié vers A est bien train n°… à… h…mn.**",
+                "**Pouvez m'expédier train facultatif n°… (ou train spécial) non commandé ? ».**",
+                "D'autre part, comme pour la gare A, le chef de sécurité de la gare B prend les mesures utiles pour arrêter et retenir le train facultatif (ou spécial) jusqu'à ce que la gare C lui ait accordé la voie pour ce train.",
+                "Les mesures prises par la gare B pour arrêter et retenir les trains se dirigeant vers A ne doivent être supprimées, le cas échéant, qu'après l'arrivée:",
+                " soit de la circulation non commandée, si celle-ci ne doit croiser aucun train à la gare,",
+                " soit du ou des trains croiseurs et de la circulation non commandée, si cette dernière doit y être croisée effectivement ou pour ordre.",
+                "Si rien du point de vue du cantonnement ne s'y oppose, le train peut franchir la gare B sans arrêt, le mécanicien respecte alors la marche prévue par les Tableaux Horaires.",
+                "Le chef de sécurité de la gare C opère de même avec le chef de sécurité de la gare suivante D.",
+                "3. Dispositions communes aux trains facultatifs et spéciaux non commandés",
+                "En application du point 2 ci-dessus, lorsqu'un train facultatif ou spécial circule avec demande de voie et qu'il doit, avant de quitter la gare A, y croiser un autre train, cette gare ne fait pas la demande de voie tant que le train croiseur n'est pas arrivé.",
+                "Si le train croiseur est en retard, la gare A, à l'initiative du Régulateur, échange avec la gare suivante B les dépêches de changement de croisement (article 107). Si le croisement est reporté à B, il est inutile de passer les dépêches de demande de voie.",
+                "**Article 112 -** Circulation des trains à marche indéterminée",
+                "1. Demande de voie",
+                "Les trains à marche indéterminée circulent par demande de voie faite de gare à gare dans les conditions ci-après.",
+                "Le chef de sécurité d'une gare A, avant d'expédier un train à marche indéterminée vers la gare suivante B, doit avoir acquis l'assurance :",
+                "- que le dernier train expédié de B vers A est arrivé à A;",
+                "- qu'aucun train ne sera plus expédié de B vers A jusqu'au moment où le train à marche indéterminée sera arrivé à B.",
+                "A cet effet, le chef de sécurité de la gare A opère comme suit:",
+                "- il prend les mesures utiles pour arrêter et retenir le train à marche indéterminée jusqu'à ce que la gare B lui ait accordé la voie pour ce train;",
+                "- il transmet au chef de sécurité de la gare B la dépêche de demande de voie ci-après :",
+                "**« A à B - Dernier train reçu de B est train n°… (train à marche tracée ou à marche indéterminée) à… h… mn.**",
+                "**Puis-je vous expédier (engin moteur de secours par exemple) se rendant en marche indéterminée jusqu’à… ? ».**",
+                "Le chef de sécurité de la gare B, s'il est d'accord, prend les mesures utiles pour arrêter et retenir les trains se dirigeant vers A; puis, après avoir vérifié que le dernier train expédié vers A est bien celui indiqué par A, il accorde la voie pour le train à marche indéterminée par dépêche sous la forme :",
+                "**« B à A - Dernier train expédié vers A est bien train n°… à… h…mn. Pouvez m'expédier… (engin moteur de secours par exemple) ».**",
+                "D'autre part, comme pour A, le chef de sécurité de la gare B prend les mesures utiles pour arrêter et retenir le train à marche indéterminée jusqu'à ce que la gare C lui ait accordé la voie pour ce train ou jusqu'après avoir terminé les opérations de garage de ce train pour laisser passer un train de même sens.",
+                "Les mesures prises par la gare B pour arrêter et retenir les trains se dirigeant vers A ne doivent être supprimées qu'après l'arrivée de la circulation à marche indéterminée et son garage (1) pour laisser passer éventuellement un train de sens contraire.",
+                "Le chef de sécurité de la gare C opère de même avec le chef de sécurité de la gare suivante D.",
+                "2. Circulation",
+                "Le chef de sécurité de la gare origine inscrit sur le journal de train « colonne 16 » la mention suivante (2):",
+                "**« Train n°… (engin moteur de secours par exemple) se rendra en marche indéterminée de gare en gare (3) jusqu'à… (gare terminus) ».**",
+                "112.(1) - Par le mot garage, il faut entendre garage pour laisser passer même un train de sens contraire. Le garage d'un train à marche indéterminée pour un train de sens contraire ne donne pas lieu à visa de croisement."
+            ]
+        },
+        {
+            "id": "reglement-s6b-003",
+            "title": "Conditions d'annonce et de reddition de voie libre",
+            "category": "Circulation",
+            "content": [
+                "- **Sur voie unique :** lorsqu'un train **X** doit être expédié après l'arrivée d'un train de sens contraire **Y**, le train **X** ne doit être annoncé qu'après l'arrivée du train **Y** et après la reddition de voie libre derrière ce train (Paragraphe b - voie unique du point 5 ci-après).",
+                "4. Reddition de voie libre derrière les trains",
+                "Si le train est en provenance de la gare précédente **A, le chef de sécurité, après s’être assuré que le train est complet** (3)**, rend voie libre derrière ce train à la gare précédente A sous la forme :",
+                "***« B à A, train n°… est arrivé complet à ma gare ».***",
+                "Le chef de sécurité de la gare **A** accuse réception de cette reddition sous la forme :",
+                "***« A à B, pris note de la reddition de voie libre derrière train n°… ».***",
+                "Dans le cas où pour une cause quelconque, le chef de sécurité de **B** n’a pu se rendre compte que le train est complet, il peut néanmoins rendre voie libre s’il obtient du chef de sécurité de la gare suivante **C** l’assurance que le train est bien parvenu complet à cette gare par un échange de dépêches ainsi rédigées :",
+                "***« B à C, train n°… est-il parvenu complet ? ».***",
+                "***« C à B, train n°… parvenu complet ».***",
+                "Lorsque le chef de sécurité de **B** est avisé par le chef de train d’un train de la présence d’un danger sur la voie ou à ses abords, il doit, avant de rendre voie libre, inviter par dépêche le chef de sécurité de la gare précédente **A** à **maintenir les mesures** prises pour arrêter et retenir les trains en attendant de nouvelles instructions.",
+                "102. (3) - Cette assurance est obtenue par la constatation de la présence du signal réglementaire sur le véhicule de queue (voir Règlement S1E).",
+                "5. Conditions de reddition de voie libre",
+                "Sur les lignes à double voie, voie libre derrière un train ne doit être rendue qu’après le départ ou le passage du train, ou bien, dans le cas de garage, que lorsque le garage du train est terminé."
+            ],
+            "keywords": [
+                "annonce",
+                "reddition",
+                "voie libre",
+                "train",
+                "sécurité",
+                "dépêche",
+                "danger"
+            ]
+        },
+        {
+            "id": "reglement-s6b-002",
+            "title": "Travaux de 1ère catégorie",
+            "category": "Travaux",
+            "content": [
+                "1. Définition:",
+                "Sont classés en 1ère catégorie les travaux simples:",
+                "- soit sans répercussion sur le fonctionnement des installations;",
+                "**Ces travaux n'entraînent pas l'application d'une procédure de dérangement par l'aiguilleur**",
+                "- soit avec des répercussions sur leur fonctionnement, mais sous réserve que le fonctionnement normal puisse être rétabli dans les **délais les plus brefs**. Ces travaux doivent être exécutés **entre les circulations**",
+                "Ces travaux font l'objet d'une entente verbale entre l'agent d'entretien et le chef de sécurité (ou l'aiguilleur de poste) dont dépend l'installation, **matérialisée par une dépêche** à inscrire par l'agent d'entretien dans le carnet d'enregistrements des dépêches S du chef de sécurité ou la transmettre par dépêche.",
+                "Texte de la dépêche",
+                "M... (Nom, fonction) à aiguilleur de... à.......mn. Travaux de 1ère catégorie: ... (Type d'installation) (2).... (Indice (3)) ».",
+                "La dépêche doit mentionner l'installation objet des travaux avec les indices prévus à l'annexe 1 de la CDP S6BN 01/2016. Une dépêche ne peut concerner qu'une seule **installation** et peut mentionner plusieurs indices.",
+                "À la fin des travaux et essais utiles, l'agent d'entretien inscrit sur le carnet d'enregistrements des dépêches S en regard de la dépêche ci-dessus l'heure d'achèvement des travaux en apposant son visa ou la transmet par dépêche.",
+                "Texte de la dépêche",
+                "M... (Nom, fonction) à aiguilleur de.... ......mn",
+                "Travaux de 1ère catégorie objet de ma dépêche n... sont achevés àh...mn"
+            ],
+            "keywords": [
+                "travaux",
+                "1ère catégorie",
+                "maintenance",
+                "dérangement",
+                "procédure",
+                "délais",
+                "circulations",
+                "entente",
+                "dépêche"
+            ]
+        },
+        {
+            "id": "reglement-s2b-004",
+            "title": "Règlement S2B - Ententes et vérifications préalables concernant l'itinéraire de la manœuvre",
+            "category": "Manœuvres",
+            "content": [
+                "Avant de donner l'ordre de mise en mouvement, le chef de la manœuvre doit :",
+                "1. S'assurer que les parties de voie à parcourir sont libres et le resteront jusqu'à ce que la manœuvre soit terminée.",
+                "Il obtient ces assurances :",
+                "- pour les parties de voie qui dépendent d'un poste et dont la libération est contrôlée de ce poste, par entente avec l'aiguilleur ;",
+                "- pour les parties de voie ne dépendant pas d'un poste (ou qui dépendent d'un poste mais dont la libération n'est pas contrôlée de ce poste), en vérifiant que la voie est libre et en réalisant les ententes voulues pour qu'aucune circulation n'y soit plus engagée.",
+                "Le chef de la manœuvre vérifie ou fait vérifier notamment les points suivants :",
+                "⚫ aucun véhicule ne stationne sur les parties de voie intéressées, les sabots, cales anti-dérive,..., qui ont pu être posés sur ce trajet, ont été retirés,",
+                "⚫ les croisements (1) qui vont être abordés par la manœuvre sont dégagés,",
+                "⚫ aucun signal d'arrêt destiné à assurer la protection d'installations, celle du personnel travaillant sur la voie, etc..., n'interdit l'exécution du mouvement.",
+                "304.(1) - Le point de 'croisement bon' (point limite du garage franc) peut être repéré par un chevron pointe en haut, une traverse peinte en blanc,...",
+                "⚫ en l'absence de ce signal, ou si le signal s'adresse à un groupe de voies convergentes, ainsi qu'en cas de manœuvre sur sémaphore fermé, par un moyen de liaison quelconque tel que radio, téléphone, signaux convenus.",
+                "La vérification du collage des aiguilles n'est pas imposée :",
+                "⚫ s'il s'agit d'aiguilles dont la position n'est pas modifiée à l'occasion de l'exécution de la manœuvre, lorsque le collage a été vérifié lors d'une manœuvre précédente et que ces aiguilles n'ont pas été talonnées depuis,",
+                "⚫ s'il s'agit d'aiguilles dont la position est fixée par cadenas ou par serrure, dites aiguilles à position imposée (la vérification du collage incombe alors à l'agent qui fixe l'aiguille dans cette position).",
+                "3. S'assurer, le cas échéant, que les mesures de sécurité vis-à-vis du ou des passages à niveau susceptibles d'être engagés ou intéressés par la manœuvre sont prises ou le seront en temps utile (voir Règlement S10B * et éventuellement les Consignes S8A et S10B)."
+            ],
+            "keywords": [
+                "manœuvre",
+                "itinéraire",
+                "voie",
+                "libre",
+                "entente",
+                "aiguilleur",
+                "sécurité",
+                "croisement",
+                "signal",
+                "aiguille"
+            ]
+        },
+        {
+            "id": "reglement-s2b-002",
+            "title": "Règlement S2B - Protection des obstacles inopinés",
+            "category": "Sécurité",
+            "content": [
+                "En cas de danger nécessitant l'arrêt immédiat des trains, tout agent des trains (conducteur ou chef de train) disposant de la liaison radio doit immédiatement déclencher le signal d'alerte radio et émettre en même temps le signal d'alerte lumineux prévu par l'article 303.",
+                "Dès l'arrêt du train, il arrête l'émission du signal d'alerte radio et renseigne le Régulateur ou la gare, verbalement, sur le lieu et la nature du danger.",
+                "Tout agent disposant d'une torche à flamme rouge doit l'allumer immédiatement de jour comme de nuit en cas de danger nécessitant l'arrêt immédiat d'un train.",
+                "L'efficacité de la torche étant limitée par la durée de sa combustion (8 minutes environ), son emploi ne dispense pas de prendre d'autres mesures de protection d'urgence tant que l'agent qui l'utilise n'a pas acquis la certitude que la protection est assurée par les signaux d'une gare ou d'un poste (voir art.301)."
+            ],
+            "keywords": [
+                "obstacle",
+                "protection",
+                "alerte",
+                "radio",
+                "torche",
+                "303"
+            ]
+        },
+        {
+            "id": "reglement-s2b-003",
+            "title": "Règlement S2B - Arrêt et retenue des trains",
+            "category": "Circulation",
+            "content": [
+                "L'arrêt des trains est commandé par la fermeture en temps utile du signal d'arrêt convenable (signal carré, sémaphore, disque, ...) suivant le motif pour lequel les trains doivent être arrêtés et le point où l'arrêt doit être obtenu.",
+                "Lorsqu'un train est ainsi arrêté, il est retenu, s'il y a lieu, par le maintien à la fermeture du signal d'arrêt (signal carré ou sémaphore de B.M.) ou par le signal d'arrêt à main placé dans les conditions ci-dessus.",
+                "Lorsque les mesures utiles pour arrêter et retenir les trains ont été prises pour plusieurs motifs, il importe de s'assurer, avant de les lever, qu'aucun de ces motifs ne justifie plus leur maintien."
+            ],
+            "keywords": [
+                "arrêt",
+                "train",
+                "signal",
+                "retenue"
+            ]
+        }
+    ]
 }
