@@ -36,7 +36,27 @@
   "keywords": ["travaux", "2ème catégorie", "D.A.T.I.S.", "maintenance", "dérangements", "chef de sécurité", "agent d'entretien"]
 },
 
-
+{
+  "id": "reglement-s6b-003",
+  "title": "Conditions d'annonce et de reddition de voie libre",
+  "category": "Circulation",
+  "content": [
+    "- **Sur voie unique :** lorsqu'un train **X** doit être expédié après l'arrivée d'un train de sens contraire **Y**, le train **X** ne doit être annoncé qu'après l'arrivée du train **Y** et après la reddition de voie libre derrière ce train (Paragraphe b - voie unique du point 5 ci-après).",
+    "4. Reddition de voie libre derrière les trains",
+    "Si le train est en provenance de la gare précédente **A, le chef de sécurité, après s’être assuré que le train est complet** (3)**, rend voie libre derrière ce train à la gare précédente A sous la forme :",
+    "***« B à A, train n°… est arrivé complet à ma gare ».***",
+    "Le chef de sécurité de la gare **A** accuse réception de cette reddition sous la forme :",
+    "***« A à B, pris note de la reddition de voie libre derrière train n°… ».***",
+    "Dans le cas où pour une cause quelconque, le chef de sécurité de **B** n’a pu se rendre compte que le train est complet, il peut néanmoins rendre voie libre s’il obtient du chef de sécurité de la gare suivante **C** l’assurance que le train est bien parvenu complet à cette gare par un échange de dépêches ainsi rédigées :",
+    "***« B à C, train n°… est-il parvenu complet ? ».***",
+    "***« C à B, train n°… parvenu complet ».***",
+    "Lorsque le chef de sécurité de **B** est avisé par le chef de train d’un train de la présence d’un danger sur la voie ou à ses abords, il doit, avant de rendre voie libre, inviter par dépêche le chef de sécurité de la gare précédente **A** à **maintenir les mesures** prises pour arrêter et retenir les trains en attendant de nouvelles instructions.",
+    "102. (3) - Cette assurance est obtenue par la constatation de la présence du signal réglementaire sur le véhicule de queue (voir Règlement S1E).",
+    "5. Conditions de reddition de voie libre",
+    "Sur les lignes à double voie, voie libre derrière un train ne doit être rendue qu’après le départ ou le passage du train, ou bien, dans le cas de garage, que lorsque le garage du train est terminé."
+  ],
+  "keywords": ["annonce", "reddition", "voie libre", "train", "sécurité", "dépêche", "danger"]
+},
 {
   "id": "reglement-s6b-002",
   "title": "Travaux de 1ère catégorie",
