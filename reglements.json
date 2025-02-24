@@ -13,6 +13,29 @@
       ],
       "keywords": ["limitation", "vitesse", "voie", "arrêt", "363R", "363bis"]
     },
+  
+{
+  "id": "reglement-s6b-001",
+  "title": "Travaux 2ème catégorie CDS6B 32",
+  "category": "Travaux",
+  "content": [
+    "Les travaux classés en 2e catégorie sont ceux dont les répercussions ne répondent pas à la définition des travaux de 1ère catégorie décrite ci-dessus et prévue à l'article 201 du RG S6B. Pour simplifier, il s'agit des travaux de maintenance préventive et de relève des dérangements qui ne sont pas répertoriés à l'annexe I de la CDP S6BN 01/2016.",
+    "1. **Mesures à prendre avant le début des travaux D.A.T.I.S.**",
+    "L'agent d'entretien :",
+    "- Établit une D.A.T.I.S. dans laquelle il précise notamment la **nature du travail, ses conséquences (y compris la nature des dérangements)** et la présente au chef de sécurité responsable de l'installation. (Pour les particularités FES BAB FTOUH au CS FES-Gares télécommandées PCC au chef circulation B ANSAR- PPV à la gare gérante, BAPR DV à la gare d'entrée du canton, Gare à SI : lorsque la gare est ouverte au service)",
+    "Le chef de sécurité :",
+    "- Prend, au moment opportun, les mesures nécessaires en fonction des dérangements indiqués par l'agent d'entretien. Ces mesures sont maintenues jusqu'à la restitution de la D.A.T.I.S.",
+    "- Complète, le cas échéant après avoir reçu la dépêche de l'aiguilleur (ou du chef de sécurité de l'autre gare), le carnet de travaux I.S. et autorise les travaux par écrit sur la D.A.T.I.S. ou par dépêche, en précisant l'installation(s) concernée(s) et la nature du dérangement. Il spécifie également le moment à partir duquel ces mesures doivent être prises, par exemple immédiatement après le passage d'un train spécifique ou de plusieurs trains en fonction du nombre de voies impactées par les travaux.",
+    "Même si les travaux nécessitent l'intervention de plusieurs agents spécialisés, une seule D.A.T.I.S. est présentée au chef de sécurité. Le rédacteur de la demande doit tenir compte des indications fournies par les autres intervenants.",
+    "1. **Mesures à prendre à la fin des travaux**",
+    "Une fois les travaux terminés :",
+    "- Des **vérifications** et essais pertinents sont effectués pour les opérations correspondantes faisant partie du service habituel du poste. Si nécessaire, le chef de sécurité ou l'aiguilleur peut être sollicité pour s'assurer du bon fonctionnement normal de l'installation concernée.",
+    "- L'agent d'entretien complète ensuite la D.A.T.I.S. pour indiquer que les travaux sont terminés, soit en complétant le carnet de travaux LS (Liste des Services), soit par dépêche, et en informe le chef de sécurité.",
+    "- Le chef de sécurité annule les mesures de sécurité correspondantes. Si les travaux ont impliqué plusieurs agents spécialisés, ceux-ci apposent leur signature sur la D.A.T.I.S. avant sa restitution pour attester des vérifications et essais qu'ils ont effectués."
+  ],
+  "keywords": ["travaux", "2ème catégorie", "D.A.T.I.S.", "maintenance", "dérangements", "chef de sécurité", "agent d'entretien"]
+},
+    
     {
       "id": "reglement-s2b-004",
       "title": "Règlement S2B - Ententes et vérifications préalables concernant l'itinéraire de la manœuvre",
